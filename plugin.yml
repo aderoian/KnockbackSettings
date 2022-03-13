@@ -1,5 +1,5 @@
 name: KnockbackSettings
-description: Edit your server's knockback settings per-world.
+description: "Edit your server's knockback settings per-world."
 author: Cosmic5173
 version: 1.0.0
 api: 4.0.0

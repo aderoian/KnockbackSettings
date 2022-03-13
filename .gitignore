@@ -1,0 +1,6 @@
+# JetBrains
+/.idea/
+
+# Builds
+/builds/
+/Build.php

@@ -1,9 +1,9 @@
-name: Knockback
+name: KnockbackSettings
 description: Edit your server's knockback settings per-world.
 author: Cosmic5173
 version: 1.0.0
 api: 4.0.0
-main: Cosmic5173\Knockback\Main
+main: Cosmic5173\KnockbackSettings\Main
 
 permissions:
   knockback.use:

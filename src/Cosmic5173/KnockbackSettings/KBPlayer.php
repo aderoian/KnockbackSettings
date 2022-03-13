@@ -18,7 +18,7 @@
  *   along with this program.  If not, see <https://www.gnu.org/licenses/>.
  */
 
-namespace Cosmic5173\Knockback;
+namespace Cosmic5173\KnockbackSettings;
 
 use pocketmine\math\Vector3;
 use pocketmine\player\Player;

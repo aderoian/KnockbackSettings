@@ -1,7 +1,5 @@
 <?php
 
-namespace Cosmic5173\Knockback;
-
 /*
  *   KnockbackSettings - Edit server knockback settings.
  *   Copyright (C) 2022  Armen Deroian
@@ -19,6 +17,8 @@ namespace Cosmic5173\Knockback;
  *   You should have received a copy of the GNU General Public License
  *   along with this program.  If not, see <https://www.gnu.org/licenses/>.
  */
+
+namespace Cosmic5173\KnockbackSettings;
 
 use JetBrains\PhpStorm\Pure;
 use jojoe77777\FormAPI\CustomForm;
